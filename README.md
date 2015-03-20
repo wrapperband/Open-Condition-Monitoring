@@ -2,99 +2,99 @@
 OCM (Open Condition Monitoring) is a required part of a systematic method of defineing tasks. Where it is known that changes in certain parameters indicate a mode change, such as from operating normally to failing.
 The idea is to anable secure storage by common means to provide infrastructure. To investigate and institute anonymous analysis od data.
 
- Maintenance Techniques and Analysis
+ Maintenance Techniques and Analysis 
 
- [ Maintenance Objectives Index ]
- [ Failure Theory Index ]
- [ Maintenance Implementation Index ]
- [ Maintenance Optimisation Index ] 
- [ Maintenance Performance Index ]
+ [ Maintenance Objectives Index ] 
+ [ Failure Theory Index ] 
+ [ Maintenance Implementation Index ] 
+ [ Maintenance Optimisation Index ]  
+ [ Maintenance Performance Index ] 
 
-Section 1 Maintenance Objectives           [ Main Page ]  [ Table of Figures and Diagrams ]
-    1. Introduction
-        1.1. Maintenance Goal
-    2. Terotechnology
-Section 2  Failure Theory
-    3. Reliability of Systems, Equipment and Components
-        3.1. Introduction
-        3.2. Definitions
-           3.2.1. Reliability
-           3.2.2. Maintainability
-           3.2.3. Availability
-           3.2.4. Repairable & Non Repairable Systems
-        3.3. Reliability Function
-     4. Reliability Block Diagrams (RBD)
-        4.1. Introduction
-        4.2. System Configurations
-     5. The "Bath Curve"
-     6. Six Patterns of Failure
-     7. The Nature of Failure
-     8. Bell Curve
-Section 3   Implementing Maintenance Tasks
-     9. Maintenance Plan
-        9.1. Introduction
-        9.2. On-Failure Maintenance
-        9.3. Fixed Time (Planned) Maintenance
-        9.4. Condition Based Maintenance (CBM)
-        9.5. Design out
-        9.6. Opportunity Maintenance
-     10. Potential Failures and the P-F Curve
-     11. P-F Curves and inspection interval timing
-     12. Condition based maintenance (CBM)
-        12.1. Introduction
-        12.2. Operating Parameters
-           12.2.1. Vibration
-           12.2.2. Temperature
-           12.2.3. Lubricating Oil Analysis
-           12.2.4. Acoustics
-           12.2.5. The Human Senses
-           12.2.6. Other Parameters
-     13. Vibration Analysis
-       13.1. Introduction
-       13.2. CBM Tours
-       13.3. Overall Vibration
-       13.4. Fast Fourier Transform
-       13.5. Failure Modes
-Section 4 Optimum Maintenance Tasks
-    14. Plant Register (Asset Hierarchy)
-       14.1. Introduction
-       14.2. Hierarchy
-    15. Failure Modes Effects & (Criticality) Analysis (FME(C)A)
-       15.1. Introduction
-       15.2. Benefits
-       15.3. Maintenance Review
-    16. Fault Tree Analysis (FTA)
-    17. Cause and Effect Diagrams (Fish Bone or Ishikawa Diagrams)
-    18. Reliability Centred Maintenance
-       18.1. Introduction
-       18.2. Seven Basic Questions
-       18.3. Implementing RCM
-    19. Review of Equipment Maintenance
-       19.1. Introduction
-       19.2. Reliability and Criticality Analysis
-       19.3. Maintenance Review
-       19.4. Maintenance Tasks
-    20. Why-Why Analysis
-       20.1. Introduction
-       20.2. Maintenance & Production Records
-       20.3. Example of Why Why
-Section 5 Measure Maintenance Performance
-    21. Maintenance Management System (MMS)
-       21.1. Introduction
-       21.2. Asset Manager
-       21.3. CBM Manager
-       21.4. Spares Manager
-       21.5. Work Control Manager
-       21.6. Report Manager
-    22. Overall Equipment Effectiveness (OEE)
-       22.1. Introduction
-       22.2. Six big losses
-       22.3. Availability
-       22.4. Performance Efficiency
-       22.5. Yield
-    23. Pareto Analysis
+Section 1 Maintenance Objectives            [ Main Page ]  [ Table of Figures and Diagrams ] 
+    1. Introduction 
+    1.1. Maintenance Goal 
+    2. Terotechnology 
+Section 2  Failure Theory 
+    3. Reliability of Systems, Equipment and Components 
+        3.1. Introduction 
+        3.2. Definitions 
+           3.2.1. Reliability 
+           3.2.2. Maintainability 
+           3.2.3. Availability 
+           3.2.4. Repairable & Non Repairable Systems 
+        3.3. Reliability Function 
+     4. Reliability Block Diagrams (RBD) 
+        4.1. Introduction 
+        4.2. System Configurations 
+     5. The "Bath Curve" 
+     6. Six Patterns of Failure 
+     7. The Nature of Failure 
+     8. Bell Curve 
+Section 3   Implementing Maintenance Tasks 
+     9. Maintenance Plan 
+        9.1. Introduction 
+        9.2. On-Failure Maintenance 
+        9.3. Fixed Time (Planned) Maintenance 
+        9.4. Condition Based Maintenance (CBM) 
+        9.5. Design out 
+        9.6. Opportunity Maintenance 
+     10. Potential Failures and the P-F Curve 
+     11. P-F Curves and inspection interval timeing 
+     12. Condition based maintenance (CBM) 
+        12.1. Introduction 
+        12.2. Operating Parameters 
+           12.2.1. Vibration 
+           12.2.2. Temperature 
+           12.2.3. Lubricating Oil Analysis 
+           12.2.4. Acoustics 
+           12.2.5. The Human Senses 
+           12.2.6. Other Parameters 
+     13. Vibration Analysis 
+       13.1. Introduction 
+       13.2. CBM Tours 
+       13.3. Overall Vibration 
+       13.4. Fast Fourier Transform 
+       13.5. Failure Modes 
+Section 4 Optimum Maintenance Tasks 
+    14. Plant Register (Asset Hierarchy) 
+       14.1. Introduction 
+       14.2. Hierarchy 
+    15. Failure Modes Effects & (Criticality) Analysis (FME(C)A) 
+       15.1. Introduction 
+       15.2. Benefits 
+       15.3. Maintenance Review 
+    16. Fault Tree Analysis (FTA) 
+    17. Cause and Effect Diagrams (Fish Bone or Ishikawa Diagrams) 
+    18. Reliability Centred Maintenance 
+       18.1. Introduction 
+       18.2. Seven Basic Questions 
+       18.3. Implementing RCM 
+    19. Review of Equipment Maintenance 
+       19.1. Introduction 
+       19.2. Reliability and Criticality Analysis 
+       19.3. Maintenance Review  
+       19.4. Maintenance Tasks 
+    20. Why-Why Analysis  
+       20.1. Introduction 
+       20.2. Maintenance & Production Records 
+       20.3. Example of Why Why  
+Section 5 Measure Maintenance Performance 
+    21. Maintenance Management System (MMS) 
+       21.1. Introduction 
+       21.2. Asset Manager 
+       21.3. CBM Manager 
+       21.4. Spares Manager 
+       21.5. Work Control Manager 
+       21.6. Report Manager 
+    22. Overall Equipment Effectiveness (OEE) 
+       22.1. Introduction 
+       22.2. Six big losses 
+       22.3. Availability 
+       22.4. Performance Efficiency 
+       22.5. Yield 
+    23. Pareto Analysis 
 
-TABLE OF figURES       [ go to Main Index ] 
+TABLE OF figures       [ go to Main Index ]
 
 Figure 1 Maintenance Goal
 Figure 2 Life Cycle Costing
@@ -110,7 +110,7 @@ Figure 11 Six patterns of failure
 Figure 12 The Bell Curve
 Figure 13 Maintenance Strategies
 Figure 14 the P-F Curve showing inspection intervals
-Figure 15 P-F curve and inspection interval timing
+Figure 15 P-F curve and inspection interval timeing
 Figure 16 Summary of Condition Monitoring Techniques
 Figure 17 Application of Condition Based Monitoring Techniques
 Figure 18 FMECA Worksheet
@@ -1335,4 +1335,3 @@ The Pareto analysis shows that unit numbers 23, 1, 15, 23, 18, 14, 28, 6, 13, 17
 
   [ Main Page ]       [ go to Top of Page ]
 
-Copyright © 1998 DrAJDoyle
