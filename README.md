@@ -1,6 +1,6 @@
 # Open-Condition-Monitoring
 OCM (Open Condition Monitoring) is a required part of a systematic method of defineing tasks. Where it is known that changes in certain parameters indicate a mode change, such as from operating normally to failing.
-The idea is to anable secure storage by common means to provide infrastructure. To investigate and institute anonymous analysis od data.
+The idea is to enable secure storage by common means to provide infrastructure. thus enabling investigation and institution of anonymous analysis of data. The wider statistical sigmificance of access larger data sets would therefore engender more usefull and flexible reporting systems. 
 
  Maintenance Techniques and Analysis 
 
