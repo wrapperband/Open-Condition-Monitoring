@@ -18,10 +18,10 @@ Section 2  Failure Theory
     3. Reliability of Systems, Equipment and Components 
         3.1. Introduction 
         3.2. Definitions 
-           3.2.1. Reliability 
-           3.2.2. Maintainability 
-           3.2.3. Availability 
-           3.2.4. Repairable & Non Repairable Systems 
+	  3.2.1. Reliability 
+	  3.2.2. Maintainability 
+	  3.2.3. Availability 
+	  3.2.4. Repairable & Non Repairable Systems 
         3.3. Reliability Function 
      4. Reliability Block Diagrams (RBD) 
         4.1. Introduction 
@@ -38,9 +38,9 @@ Section 3   Implementing Maintenance Tasks
         9.4. Condition Based Maintenance (CBM) 
         9.5. Design out 
         9.6. Opportunity Maintenance 
-     10. Potential Failures and the P-F Curve 
-     11. P-F Curves and inspection interval timeing 
-     12. Condition based maintenance (CBM) 
+    10. Potential Failures and the P-F Curve 
+    11. P-F Curves and inspection interval timeing 
+    12. Condition based maintenance (CBM) 
         12.1. Introduction 
         12.2. Operating Parameters 
            12.2.1. Vibration 
@@ -56,14 +56,14 @@ Section 3   Implementing Maintenance Tasks
        13.4. Fast Fourier Transform 
        13.5. Failure Modes 
 Section 4 Optimum Maintenance Tasks 
-    14. Plant Register (Asset Hierarchy) 
+     14. Plant Register (Asset Hierarchy) 
        14.1. Introduction 
        14.2. Hierarchy 
-    15. Failure Modes Effects & (Criticality) Analysis (FME(C)A) 
+     15. Failure Modes Effects & (Criticality) Analysis (FME(C)A) 
        15.1. Introduction 
        15.2. Benefits 
        15.3. Maintenance Review 
-    16. Fault Tree Analysis (FTA) 
+       16. Fault Tree Analysis (FTA) 
     17. Cause and Effect Diagrams (Fish Bone or Ishikawa Diagrams) 
     18. Reliability Centred Maintenance 
        18.1. Introduction 
@@ -74,26 +74,26 @@ Section 4 Optimum Maintenance Tasks
        19.2. Reliability and Criticality Analysis 
        19.3. Maintenance Review  
        19.4. Maintenance Tasks 
-    20. Why-Why Analysis  
+     20. Why-Why Analysis  
        20.1. Introduction 
        20.2. Maintenance & Production Records 
        20.3. Example of Why Why  
 Section 5 Measure Maintenance Performance 
-    21. Maintenance Management System (MMS) 
+     21. Maintenance Management System (MMS) 
        21.1. Introduction 
        21.2. Asset Manager 
        21.3. CBM Manager 
        21.4. Spares Manager 
        21.5. Work Control Manager 
        21.6. Report Manager 
-    22. Overall Equipment Effectiveness (OEE) 
+     22. Overall Equipment Effectiveness (OEE) 
        22.1. Introduction 
        22.2. Six big losses 
        22.3. Availability 
        22.4. Performance Efficiency 
        22.5. Yield 
-    23. Pareto Analysis 
-
+     23. Pareto Analysis 
+     
 TABLE OF figures       [ go to Main Index ]
 
 Figure 1 Maintenance Goal
