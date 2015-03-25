@@ -6,7 +6,7 @@ It is envisaged that OCM will enable secure storage by common means to provide i
 
 There is a requirement for secure anonymous data transfer from sensors, presentation, organisation and analysis of the data.
 
-Cryptographic currency blockchain technology could be an ideal open technology backbone to exploit to enable rapid development of an enhanced system. The encrypted nature of the data, p2p transfer, blockchain ledger and p2pool would enable a distributed network.
+Cryptographic currency blockchain technology could be an ideal open technology backbone to exploit to enable rapid development of an enhanced system. The encrypted nature of the data, pear to peer (p2p) transfer, blockchain ledger and p2pool would enable a distributed network.
 
 This gives the opportunity for cooperative effort whilst retaining personal data anonymity, if so designed.
 
