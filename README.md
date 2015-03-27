@@ -23,6 +23,7 @@ Such a system where the number of users is more limited and other secure layer c
 
 ## Open Condition Monitoring & Open Forums.  
 
+
 Whilst governmental systems claim to be representative there is usually no formal channel of expression of grass roots opinion in most system, representatives garner views or assume their view is representative after being voted in. Whereas in software development and most industries and companies internet forums have been important in building communities to discuss and develop policy and functionality, no such forum has developed in the real world.  
 
 This maybe because a forum without information is just an echo chamber, i.e. other facilities are required to make the general population have the interest to contribute to the discussion.  
