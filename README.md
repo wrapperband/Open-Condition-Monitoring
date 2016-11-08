@@ -85,11 +85,15 @@ Open Condition Monitoring
       Parameters (CM, NDT, History, Events, Data)  
        Syndromes (Trends, Ways ahead, Theories, Conclusions)  
        
-#### Other methods of data colection
+#### Alternatives to sensors methods of data collection
 
 Some monitoring parameter would be possible using the "population". For instance relying on institutional statistics such as crime rates for the police is automatically biased. Relying on the opinion of the public is also easily biased by the media.
 
-However, it is possible to envisage a probablistic methed where a large number of volunteers are sampled (to a tested error rate)  on  a regular basis, on wither the feel they've experienced a crime? Or had a car accident in last week or such, thus aquiring usefull data to compare with institutional statisics.
+It would be possible have a "app" people could use and report all of the incidence type they've experienced. It is strictly not efficient use of time and possible privacy hazard to a lot of people.
 
-This means some data can be collected in advance of of open hard ware or sensor systems beeing developed and distributed.
+However, it is possible to envisage a probabilistic method where a large number of volunteers are sampled (to a tested error rate)  on  a regular basis, on wither the feel they've experienced a crime? Or had a car accident in last week or such, thus acquiring use-full data to compare with institutional statistics.
+
+This means some data can be collected in advance of of open hard ware or sensor systems being developed and distributed.
+
+It would be advantageous for political parties to sponsor information collation to gain addition information of the success of policies. For instance, the amounts of certain types of specific complaints or observations sent to MPs could be specifically counted. Note that the total number of correspondance to MPs may also indicate problems.
        
