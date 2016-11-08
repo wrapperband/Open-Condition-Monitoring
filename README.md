@@ -76,12 +76,14 @@ It can be seen there is a possibility to have parameters designed to raise, or p
 
 Potential data structure 
 
-Open Condition Monitoring
- Global Concerns (Global, Environmental, Governmental, Resources)
-  Regional Concerns (Environment, Supply, Energy, Assets, Skills, Regional Infrastructure)
-   Local Concerns  (Employment, Energy, Environment, Skills, Local Infrastructure)
-    Assets (Buildings, Structure, Equipment, Devices, Personnel)
-     Methods (RCM, FTA, FMEA, FMECA, FSA, Information)
-      Parameters (CM, NDT, History, Events, Data)
-       Syndromes (Trends, Ways ahead, Theories, Conclusions)
+Open Condition Monitoring  
+ Global Concerns (Global, Environmental, Governmental, Resources)  
+  Regional Concerns (Environment, Supply, Energy, Assets, Skills, Regional Infrastructure)  
+   Local Concerns  (Employment, Energy, Environment, Skills, Local Infrastructure)  
+    Assets (Buildings, Structure, Equipment, Devices, Personnel)  
+     Methods (RCM, FTA, FMEA, FMECA, FSA, Information)  
+      Parameters (CM, NDT, History, Events, Data)  
+       Syndromes (Trends, Ways ahead, Theories, Conclusions)  
+       
+
        
