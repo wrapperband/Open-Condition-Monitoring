@@ -53,23 +53,26 @@ Monitoring parameters is fine but it is also important that these are attached t
 
 ### Initial Tasks : 
 
-Identify Modes of success
+#### Identify Modes of success
 
 e.g.  Amount of parks available to each personal
 
-Identify Modes of failure
+#### Identify Modes of failure
 
 e.g. Amount of parks area per mile per person should be above X (50%?)
 
 
-Identify monitorable parameters
+#### Identify monitorable parameters
 
 There are ways to proceed, generate the required known problems. This will entail citizen data collection, this can be just hosting a sensor. Additionally, use available data and attach this to monitor causes of failure, proportionally to it's applicability. 
 
 e.g. Possible  parameters   Proportion of fat in food sold, Proportion of sugar in food sold, Noise levels, Pollutants, sunlight obscured, Pot holes, Government maintenance back logs, visits to government websites, polls on the subject
 
+#### Identifying new trends or issues
+
 It can be seen there is a possibility to have parameters designed to raise, or prioritise new issues, as well as monitor old ones for deterioration.
 
+#### Data storage structure and relevance
 
 Potential data structure 
 
