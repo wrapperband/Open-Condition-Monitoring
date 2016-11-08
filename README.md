@@ -95,5 +95,25 @@ However, it is possible to envisage a probabilistic method where a large number 
 
 This means some data can be collected in advance of of open hard ware or sensor systems being developed and distributed.
 
-It would be advantageous for political parties to sponsor information collation to gain addition information of the success of policies. For instance, the amounts of certain types of specific complaints or observations sent to MPs could be specifically counted. Note that the total number of correspondance to MPs may also indicate problems.
+It would be advantageous for political parties to sponsor information collation to gain addition information of the success of policies. For instance, the amounts of certain types of specific complaints or observations sent to MPs could be specifically counted. Note that the total number of correspondence to MPs may also indicate problems.
+
+#### Methods of automating sensor data collection using Machine Learning
+
+An example of how machine learning can be used to set up a large array of citizen sensors might be the effect of aircraft condensation trails or cloud cover. A complex issue to distinguish normally.
+
+Volunteers would have a cheap USB camera set to view any open & fixed section of the sky. An robot system such as http://openbiometrics.org/docs/install/  Poppy, could be used to view the camera and log features such a brightness.
+
+This can be done by pre-training "face recognition" and "robot control" and loging the results as a trend. 
+
+The robot is trained with 2 cameras initially. The robot has control of the brightness of one camera and is trained to duplicate the automatic brightness control in the other. That trained "brain" can then be applied on the sensor site where it be allowed to improve it's fine control of that environment. The logged adjustments to brightness can be trended and give a measure of the cloud cover.
+
+It would be then possible to use other machine learning techniques to automatically monitor particular issues. For instance cloud cover, or sky brightness could be data fused with an aircraft events in the area. ie give a report or trend that would show if there is any correlation, the amount and the error.
+
+The ability of the system to be trained to distinguish between plane trails and clouds gives another advantage. It could give a guesstimate of brightness change due to aeroplanes. In that case by assisted learning with a large number of tests measured for proportion. It seems probable that a climate system will soon be developed which recognises types of cloud, which could be extended with extra training to record the proportion of plane con trails.
+
+The system could then be retrained and used, say, to detect traffic levels or other issues, and use face recognition to detect type and direction, use the robot ability to store trendable data.
+
+
+
+
        
