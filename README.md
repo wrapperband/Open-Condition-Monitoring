@@ -24,7 +24,7 @@ The blockchain would probably require features as described in PBA (Private Bloc
 
 https://github.com/wrapperband/PrivateBlockchainAddress  
 
-Such a system where the number of users is more limited and other secure layer can be added above the Blockchain more easily as a data register. Although use of cryptographic technology automatically adds security layers, for instance secure backups of the sensor readings via multi instances of the Blockchain and cryptographically securing those backups so the can't be tampered with.  
+Such a system where the number of users is more limited and other secure layer can be added above the Blockchain more easily as a data register. Although use of cryptographic technology automatically adds security layers, for instance secure backups of the sensor readings via multiple instances of the Blockchain and cryptographically securing those backups so the can't be tampered with.  
 
 ## Open Condition Monitoring & Open Forums.  
 
@@ -36,6 +36,49 @@ OCM is envisaged, and has been based on, work done to provide tools to monitor m
 In particular close monitoring of government related tasks and budgets, with suitable analysis to show a wide range of considerations.  
 
 The synergy of A.I. techniques to normalise and fuse data from available sources, say by agents. Such a system might highlight that a trend is due to a particular external cause, no one had thought of, which changed the attitude to worrying trends.
+
 The core principle of sharing meta data are particularly relevant to health data and stands of such analysis. A grass roots discussion of how that should be done would aide its inception and agile development of health monitoring standards beyond the individual.  
 
 By developing the tools behind open forums as open source, it would encourage rapid development over many areas where there is currently a vacuum.  
+
+
+## Monitoring the human survival system
+
+
+Human survival depends on a suitable environment. The population needs to be as cleaver and informed in order to act against any real dangers. In the past ideas could be tested in the environment, in that was so large it could recover, or at least stabilise, even if at the disadvantage of other species.
+
+The current idea is that open condition monitoring could facilitate the invention and distribution of citizen monitoring sensors, develop distributed storage via block chain and help produce compile reports on Github. It could also look to see how data could be imported from other sources. 
+
+Monitoring parameters is fine but it is also important that these are attached to decisions, maintenance or policies so they can be calibrated to indicate what is happening in the real world. 
+
+### Initial Tasks : 
+
+Identify Modes of success
+
+e.g.  Amount of parks available to each personal
+
+Identify Modes of failure
+
+e.g. Amount of parks area per mile per person should be above X (50%?)
+
+
+Identify monitorable parameters
+
+There are ways to proceed, generate the required known problems. This will entail citizen data collection, this can be just hosting a sensor. Additionally, use available data and attach this to monitor causes of failure, proportionally to it's applicability. 
+
+e.g. Possible  parameters   Proportion of fat in food sold, Proportion of sugar in food sold, Noise levels, Pollutants, sunlight obscured, Pot holes, Government maintenance back logs, visits to government websites, polls on the subject
+
+It can be seen there is a possibility to have parameters designed to raise, or prioritise new issues, as well as monitor old ones for deterioration.
+
+
+Potential data structure 
+
+Open Condition Monitoring
+ Global Concerns (Global, Environmental, Governmental, Resources)
+  Regional Concerns (Environment, Supply, Energy, Assets, Skills, Regional Infrastructure)
+   Local Concerns  (Employment, Energy, Environment, Skills, Local Infrastructure)
+    Assets (Buildings, Structure, Equipment, Devices, Personnel)
+     Methods (RCM, FTA, FMEA, FMECA, FSA, Information)
+      Parameters (CM, NDT, History, Events, Data)
+       Syndromes (Trends, Ways ahead, Theories, Conclusions)
+       
