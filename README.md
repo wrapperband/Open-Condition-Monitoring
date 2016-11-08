@@ -85,5 +85,11 @@ Open Condition Monitoring
       Parameters (CM, NDT, History, Events, Data)  
        Syndromes (Trends, Ways ahead, Theories, Conclusions)  
        
+#### Other methods of data colection
 
+Some monitoring parameter would be possible using the "population". For instance relying on institutional statistics such as crime rates for the police is automatically biased. Relying on the opinion of the public is also easily biased by the media.
+
+However, it is possible to envisage a probablistic methed where a large number of volunteers are sampled (to a tested error rate)  on  a regular basis, on wither the feel they've experienced a crime? Or had a car accident in last week or such, thus aquiring usefull data to compare with institutional statisics.
+
+This means some data can be collected in advance of of open hard ware or sensor systems beeing developed and distributed.
        
