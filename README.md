@@ -76,14 +76,14 @@ It can be seen there is a possibility to have parameters designed to raise, or p
 
 Potential data structure 
 
-Open Condition Monitoring  
- Global Concerns (Global, Environmental, Governmental, Resources)  
-  Regional Concerns (Environment, Supply, Energy, Assets, Skills, Regional Infrastructure)  
-   Local Concerns  (Employment, Energy, Environment, Skills, Local Infrastructure)  
-    Assets (Buildings, Structure, Equipment, Devices, Personnel)  
-     Methods (RCM, FTA, FMEA, FMECA, FSA, Information)  
-      Parameters (CM, NDT, History, Events, Data)  
-       Syndromes (Trends, Ways ahead, Theories, Conclusions)  
+Open Condition Monitoring   
+    Global Concerns (Global, Environmental, Governmental, Resources)   
+     Regional Concerns (Environment, Supply, Energy, Assets, Skills, Regional Infrastructure)   
+      Local Concerns  (Employment, Energy, Environment, Skills, Local Infrastructure)   
+       Assets (Buildings, Structure, Equipment, Devices, Personnel)   
+        Methods (RCM, FTA, FMEA, FMECA, FSA, Information)   
+         Parameters (CM, NDT, History, Events, Data)   
+          Syndromes (Trends, Ways ahead, Theories, Conclusions)   
        
 #### Alternatives to sensors methods of data collection
 
@@ -123,6 +123,8 @@ Calibration of measurable parameters to other environmental effects e.g Traffic 
 Adjustments to Bitcoin code to achieve Fast Blockchain 
 Content triggered Block validation to enable leveraging Blockchain technology to forward OCM 
 High efficiency scrypt ASIC use to secure open condition monitoring (OCM) data
+Adjusting the code of an open source program (guvview) to record the automatic brightness setting from a cheap USB video camera to demonstrate making an affordable fuzzy sensor.
+Using data fusion or other methosd to identify calibration and accuracy of fuzzy sensors e.g. Guvview / USB camera measuring cloud cover.
 
 
        
