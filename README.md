@@ -114,6 +114,15 @@ The ability of the system to be trained to distinguish between plane trails and 
 The system could then be retrained and used, say, to detect traffic levels or other issues, and use face recognition to detect type and direction, use the robot ability to store trendable data.
 
 
+## Areas for Expansion / discussion / further work / papers
+
+Scraping current data sources for integration into OCM, such as flood and cloud cover
+Integrating environmental modes of failure, public policy and optomised citizen / distrobuted / DAO (autonomous) data collection. 
+Fuzzy / probabilistic sensors
+Calibration of measurable parameters to other environmental effects e.g Traffic to pollution   or planes to pollution (or pollution to planes or traffic for other cases once calibrated).
+Adjustments to Bitcoin code to achieve Fast Blockchain 
+Content triggered Block validation to enable leveraging Blockchain technology to forward OCM 
+High efficiency scrypt ASIC use to secure open condition monitoring (OCM) data
 
 
        
