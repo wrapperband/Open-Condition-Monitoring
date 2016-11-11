@@ -124,7 +124,9 @@ Adjustments to Bitcoin code to achieve Fast Blockchain
 Content triggered Block validation to enable leveraging Blockchain technology to forward OCM 
 High efficiency scrypt ASIC use to secure open condition monitoring (OCM) data
 Adjusting the code of an open source program (guvview) to record the automatic brightness setting from a cheap USB video camera to demonstrate making an affordable fuzzy sensor.
-Using data fusion or other methosd to identify calibration and accuracy of fuzzy sensors e.g. Guvview / USB camera measuring cloud cover.
+Using data fusion or other method to identify calibration and accuracy of fuzzy sensors e.g. Guvview / USB camera measuring cloud cover.
+Review the use of available "accurate sensors" to provide data on the consequence of issues and decisions, such accelerators / microphones in phones. Use of old phones and simple apps to collect citizen data.
+Approved list of people who could do or assist with, say, chemical testing, and starting  some levels of volunteers data collectors (weather stations operators, or analysis of number of MPs letters or planning applications etc)
 
 
        
