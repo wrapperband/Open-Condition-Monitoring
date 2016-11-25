@@ -107,12 +107,73 @@ This can be done by pre-training "face recognition" and "robot control" and logi
 
 The robot is trained with 2 cameras initially. The robot has control of the brightness of one camera and is trained to duplicate the automatic brightness control in the other. That trained "brain" can then be applied on the sensor site where it be allowed to improve it's fine control of that environment. The logged adjustments to brightness can be trended and give a measure of the cloud cover.
 
-It would be then possible to use other machine learning techniques to automatically monitor particular issues. For instance cloud cover, or sky brightness could be data fused with an aircraft events in the area. ie give a report or trend that would show if there is any correlation, the amount and the error.
+It would be then possible to use other machine learning techniques to automatically monitor particular issues. For instance cloud cover, or sky brightness could be data fused with an aircraft events in the area. i.e. give a report or trend that would show if there is any correlation, the amount and the error.
 
 The ability of the system to be trained to distinguish between plane trails and clouds gives another advantage. It could give a guesstimate of brightness change due to aeroplanes. In that case by assisted learning with a large number of tests measured for proportion. It seems probable that a climate system will soon be developed which recognises types of cloud, which could be extended with extra training to record the proportion of plane con trails.
 
-The system could then be retrained and used, say, to detect traffic levels or other issues, and use face recognition to detect type and direction, use the robot ability to store trendable data.
+The system could then be retrained and used, say, to detect traffic levels or other issues, and use face recognition to detect type and direction, use the robot ability to store trend-able data.
 
+The new "smart motorway" sections have collected over £1M in speeding fines this year. 
+On one section of the M1 in Nottinghamshire, police issued 8,489 tickets, amounting to £425,000 of fines in 2015. (2014 was £0)
+They have variable limits so may introduce instability into the driver habit forming process experience.
+
+http://www.telegraph.co.uk/news/2016/11/07/smart-motorway-cameras-bring-government-extra-1m-in-speeding-fin/
+
+Speeding fines on England's smart motorways
+
+Motorway
+Junctions
+Section (both ways)
+Number of fines 2014/15
+M25
+J16-23
+M40 - A1
+3240
+M25
+J23-24
+A1 - Potters Bar
+3466
+M1
+J6a-10
+M25 - Luton S & airport
+839
+M1
+J10-13
+Luton S airport - Bedford M Keynes
+10489
+M1
+J25-28
+Nottingham - Mansfield
+8489
+M6
+J4-5
+M42 / Coventry - Birmingham E
+2718
+M6
+J5-8
+Birmingham E - M5
+36
+M6
+J8-10a
+M5 - M54
+3916
+M42
+J3a-7
+M40 - M6 (N)
+3039
+M42
+J7-9
+M6 (N) - M6 Toll
+7246
+M4
+J19-20
+Bristol - M5
+9038
+
+
+The extra info I'd be interested in (some available now probably, some possibly discoverable, some we would have to look for future potential e.g. cell phone data:
+
+E.g. Location, direction of travel, Time of day, traffic density, ratio of local to non-local or foreign drivers, ratio of HGV to cars, male or female, age, car type, journey type, whether mobile phones in use.
 
 ## Areas for Expansion / discussion / further work / papers
 
@@ -128,5 +189,7 @@ Using data fusion or other method to identify calibration and accuracy of fuzzy 
 Review the use of available "accurate sensors" to provide data on the consequence of issues and decisions, such accelerators / microphones in phones. Use of old phones and simple apps to collect citizen data.
 Approved list of people who could do or assist with, say, chemical testing, and starting  some levels of volunteers data collectors (weather stations operators, or analysis of number of MPs letters or planning applications etc)
 
+Ref :
 
+http://phys.org/news/2016-11-economist-reveals-poverty-income.html
        
