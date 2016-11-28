@@ -175,6 +175,38 @@ The extra info I'd be interested in (some available now probably, some possibly 
 
 E.g. Location, direction of travel, Time of day, traffic density, ratio of local to non-local or foreign drivers, ratio of HGV to cars, male or female, age, car type, journey type, whether mobile phones in use.
 
+
+## Quality of Life Monitoring
+
+### Oldham Test case
+
+It is clear that historical information can be mined to show previous trends for areas of interests. That analysis task is complex, but informative. It is also an ongoing task that needs care and integrity, an ideal ongoing experimental / monitoring / analysis for students.
+
+### Types of material available to analyse
+
+Identification of available parameters is important but not exclusive step. The viability and ease of collection needs to be noted as well as it's veracity. Each parameter might be an indicator of many types of mode of failure, so would be worth doing more analysis or developing new sensor methods.
+
+It is important to create possible tasks from the causes of failure, even though those task may be impossible of expensive currently. In the future it will be possible to use data fusion to infer more complex parameters at specific locations by fusing other sensor data (say from a similar environment) to produce a phantom reading of a certain accuracy. This could be used when considering actions, such as allowing a property extension or other development, what effect that has on pollution to the current occupants. The power of this should be plain, identification of pollution, or other problem, hot spots, that are currently damaging a few peoples health very badly, instead of just ignoring all dangers. 
+
+List of potential current Parameters / analysis calculated parameters - Political / Ecology Monitoring
+
+Letters to MP
+  Subject of letters analysis
+  
+Environment
+
+Quality of Life
+  Parks
+  
+Negative Health
+  Pollution
+    Noise
+    Chemicals
+    Loss of sun Vitamin D
+    
+
+
+
 ## Areas for Expansion / discussion / further work / papers
 
 Scraping current data sources for integration into OCM, such as flood and cloud cover
