@@ -204,6 +204,52 @@ Negative Health
     Chemicals
     Loss of sun Vitamin D
     
+### Technology
+
+What technology can be leveraged to  enable Open Condition Monitoring?
+
+#### Blockchain
+
+Blockchain technology can be re-purposed to enable a distributed system. Proof of Work and or Proof of storage could be used to secure the data and reward the Transaction completion with "sensor" credits to the system. This means the public could contribute simply by storing, or being a node to the blockchain(s).
+
+
+Public blockchain allows for a mechanism of anonymous data sharing. An example would be Open Condition Monitoring being used to anonymously and securely monitor equipment at a disabled persons house. In addition to identifying a faulty fridge, the system could also use common data to diagnose the fault.
+
+Notes : The type of adjustment to blockchain code needed to use for sensor data retention and analysis.
+
+Change transaction trigger to include data size. The difficulty set for mining or encoding a transaction would include a size limit, such that as transaction is filled.
+
+The difficulty for the next transaction would then be calculated on a suitable short time, such that as soon as a transaction is full it is available to mine.
+
+#### P2Pool mining pools
+
+
+
+### Open condition monitoring Case studies
+
+#### Example projects suggestions
+
+##### Chemical Trails from Aircraft
+
+It is clear from other projects and research that there could be at least two explainations for chemical trails. The fist obvious one is that (sub) standard fuel is being used  that causes the pollution. Another explaination is that fuel additives or spraying are being used to effect the climate.
+
+The third explaination is that Psy-operation to cover the effects Condensation Trails on weather and sun / Vitimin D levels on humans living close to aircraft activity.
+
+
+**Measurable parameters**
+
+Aircraft height  - Any aircraft that appears to forming a Condensation trail bellow 30 thousand feet
+  By using a gun sight to measure the length of the aircraft and the angle to the aircraft, allows monitoring height. Combined with a photo long term proof and Con / chem trail size estimation. 
+
+
+Length of Trails
+  Take a photo (long term proof) and Con / chem trail size estimation. 
+
+Cloud cover due to Condensation trails ( Cloud cover locally - Average cloud cover )
+
+Logging of flights above measurement area 
+
+Air Pollution levels correlated to plane activity
 
 
 
