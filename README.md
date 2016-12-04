@@ -251,6 +251,15 @@ Logging of flights above measurement area
 
 Air Pollution levels correlated to plane activity
 
+### OTIC and currently available parameters
+
+Currently available parameters can be assesed and tested for relevence to policy or issue. A Task is created to asses what is the "correct" or "expected" level of the parameter with regard to that problem. For instance, polution reduction could be the policy, the tasks would be to monitor pollution and set appropriate geographic distribution, find if reading is being taken, set appropriate status, alarm, concern, warning, danger. Then the regularity of measurement (or observation for analysis) is set initially on time to "vary".
+Appropriate thining or data fusion techniques also need to be developed as unlike machine maintenance there is more risk in not acting.
+
+See Ref : Examples of available parameters
+
+For example http://www.gaugemap.co.uk/  shows the levels at various rivers in the UK. In OCM those readings would be linked to policy, for instance over development of hilly terrain removing soak or other factors like "global warming".
+
 
 
 ## Areas for Expansion / discussion / further work / papers
@@ -270,4 +279,12 @@ Approved list of people who could do or assist with, say, chemical testing, and 
 Ref :
 
 http://phys.org/news/2016-11-economist-reveals-poverty-income.html
+
+Ref : Examples of available parameters
+
+http://www.gaugemap.co.uk/
+https://www.gov.uk/government/organisations/department-for-communities-and-local-government/about/statistics
+
+
+http://www.gaugemap.co.uk/
        
