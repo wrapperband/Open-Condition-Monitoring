@@ -279,6 +279,9 @@ Approved list of people who could do or assist with, say, chemical testing, and 
 Ref :
 
 http://phys.org/news/2016-11-economist-reveals-poverty-income.html
+http://phys.org/news/2016-11-method-early-emerging-problems-industrial.html
+http://phys.org/news/2016-11-pollution.html
+http://phys.org/news/2016-11-misinformation-social-mediacan-technology.html
 
 Ref : Examples of available parameters
 
