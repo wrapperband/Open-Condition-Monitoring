@@ -170,6 +170,9 @@ J19-20
 Bristol - M5
 9038
 
+Flight information : Citizen audit of planes numbers.
+
+
 
 The extra info I'd be interested in (some available now probably, some possibly discoverable, some we would have to look for future potential e.g. cell phone data:
 
@@ -253,14 +256,46 @@ Air Pollution levels correlated to plane activity
 
 ### OTIC and currently available parameters
 
-Currently available parameters can be assesed and tested for relevence to policy or issue. A Task is created to asses what is the "correct" or "expected" level of the parameter with regard to that problem. For instance, polution reduction could be the policy, the tasks would be to monitor pollution and set appropriate geographic distribution, find if reading is being taken, set appropriate status, alarm, concern, warning, danger. Then the regularity of measurement (or observation for analysis) is set initially on time to "vary".
+Currently available parameters can be assessed and tested for relevance to policy or issue. A Task is created to asses what is the "correct" or "expected" level of the parameter with regard to that problem. For instance, pollution reduction could be the policy, the tasks would be to monitor pollution and set appropriate geographic distribution, find if reading is being taken, set appropriate status, alarm, concern, warning, danger. Then the regularity of measurement (or observation for analysis) is set initially on time to "vary".
 Appropriate thining or data fusion techniques also need to be developed as unlike machine maintenance there is more risk in not acting.
 
 See Ref : Examples of available parameters
 
 For example http://www.gaugemap.co.uk/  shows the levels at various rivers in the UK. In OCM those readings would be linked to policy, for instance over development of hilly terrain removing soak or other factors like "global warming".
 
+### Use of Machine Learning 
 
+#### Data collection
+
+Ref : http://phys.org/news/2016-12-video.html  Re : Use for e.g. Monitoring TV channels for issues : News for repetition / advert content / new content /
+http://contrailscience.com/measuring-the-height-of-contrails/
+
+
+#### Data Analysis
+
+Ref : http://phys.org/news/2016-11-misinformation-social-mediacan-technology.html
+
+
+### Case Studys 
+
+
+#### Aims of the Labour Party
+
+In order to analyse the significance of various possible factors to promote the Labour Party, it is important to identify the aims, or Mode of Success of the organisation or Process. For the Labour Party 
+
+Clause IV.: Aims and values (of the Labour Party)
+
+"The Labour Party is a democratic socialist party. It believes that by the strength of our common endeavour we achieve more than we achieve alone, so as to create for each of us the means to realise our true potential and for all of us a community in which power, wealth and opportunity are in the hands of the many, not the few, where the rights we enjoy reflect the duties we owe, and where we live together, freely, in a spirit of solidarity, tolerance and respect." 
+
+Ref : http://labourlist.org/wp-content/uploads/2013/04/Rule-Book-2013.pdf
+
+#### Investigative powers bill 
+
+Analysis of the petition response for the Investigative powers bill. In particular, the issues, ie "a review" to repeal it, that all considerations had been covered. As in 9/11, that did not seem to be the case as MPs being forced to vote against their will or other actions were not considered, like long term safety of the Public if their were a dictatorial coop...
+
+If the safety of public was considered, what is the predicted average increase in danger to the public? and how can we measure if that is effective long term? what are the warning and alarm levels for further action?
+
+https://petition.parliament.uk/petitions/173199
 
 ## Areas for Expansion / discussion / further work / papers
 
@@ -282,6 +317,9 @@ http://phys.org/news/2016-11-economist-reveals-poverty-income.html
 http://phys.org/news/2016-11-method-early-emerging-problems-industrial.html
 http://phys.org/news/2016-11-pollution.html
 http://phys.org/news/2016-11-misinformation-social-mediacan-technology.html
+http://phys.org/news/2016-12-video.html  Re : Use for e.g. Monitoring TV channels for issues : News for repetition / advert content / new content /
+
+http://labourlist.org/wp-content/uploads/2013/04/Rule-Book-2013.pdf
 
 Ref : Examples of available parameters
 
