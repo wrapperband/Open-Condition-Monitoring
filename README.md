@@ -297,10 +297,17 @@ If the safety of public was considered, what is the predicted average increase i
 
 https://petition.parliament.uk/petitions/173199
 
+
+#### Analysing Trending alarm setting : Using Police statistics potential case study
+
+http://www.aol.co.uk/news/2016/12/10/400-kill-themselves-after-release-from-police-custody/  
+
+
+
 ## Areas for Expansion / discussion / further work / papers
 
 Scraping current data sources for integration into OCM, such as flood and cloud cover
-Integrating environmental modes of failure, public policy and optomised citizen / distrobuted / DAO (autonomous) data collection. 
+Integrating environmental modes of failure, public policy and optimised citizen / distributed / DAO (autonomous) data collection. 
 Fuzzy / probabilistic sensors
 Calibration of measurable parameters to other environmental effects e.g Traffic to pollution   or planes to pollution (or pollution to planes or traffic for other cases once calibrated).
 Adjustments to Bitcoin code to achieve Fast Blockchain 
@@ -311,7 +318,7 @@ Using data fusion or other method to identify calibration and accuracy of fuzzy 
 Review the use of available "accurate sensors" to provide data on the consequence of issues and decisions, such accelerators / microphones in phones. Use of old phones and simple apps to collect citizen data.
 Approved list of people who could do or assist with, say, chemical testing, and starting  some levels of volunteers data collectors (weather stations operators, or analysis of number of MPs letters or planning applications etc)
 
-Ref :
+Ref : Issues
 
 http://phys.org/news/2016-11-economist-reveals-poverty-income.html
 http://phys.org/news/2016-11-method-early-emerging-problems-industrial.html
@@ -321,11 +328,21 @@ http://phys.org/news/2016-12-video.html  Re : Use for e.g. Monitoring TV channel
 
 http://labourlist.org/wp-content/uploads/2013/04/Rule-Book-2013.pdf
 
-Ref : Examples of available parameters
+Ref : Tools
+https://github.com/silverark/arkpm
+
+Ref : Examples of OSINT source and available parameters
 
 http://www.gaugemap.co.uk/
 https://www.gov.uk/government/organisations/department-for-communities-and-local-government/about/statistics
+https://www.jrf.org.uk/reports
 
 
-http://www.gaugemap.co.uk/
-       
+Ref : Data and Analysis
+
+https://www.ted.com/talks/noreena_hertz_how_to_use_experts_and_when_not_to
+http://phys.org/news/2016-12-aviation-safety.html  Measuring an aviation system's safety performance
+OSINT
+
+Ref : Open Source Software
+http://www.hull-coin.org/
