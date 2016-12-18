@@ -325,6 +325,7 @@ http://phys.org/news/2016-11-method-early-emerging-problems-industrial.html
 http://phys.org/news/2016-11-pollution.html
 http://phys.org/news/2016-11-misinformation-social-mediacan-technology.html
 http://phys.org/news/2016-12-video.html  Re : Use for e.g. Monitoring TV channels for issues : News for repetition / advert content / new content /
+http://phys.org/news/2016-12-gmo-financial-conflicts.html
 
 http://labourlist.org/wp-content/uploads/2013/04/Rule-Book-2013.pdf
 
@@ -336,13 +337,18 @@ Ref : Examples of OSINT source and available parameters
 http://www.gaugemap.co.uk/
 https://www.gov.uk/government/organisations/department-for-communities-and-local-government/about/statistics
 https://www.jrf.org.uk/reports
+http://phys.org/news/2016-12-underground-web.html
 
 
 Ref : Data and Analysis
 
+The Open Source Everything Manifesto by Robert David Steele  ISBN 978-1-58394-443-1
+
 https://www.ted.com/talks/noreena_hertz_how_to_use_experts_and_when_not_to
 http://phys.org/news/2016-12-aviation-safety.html  Measuring an aviation system's safety performance
+http://phys.org/news/2016-09-years-safer-aviation.html#nRlv
 OSINT
+https://techxplore.com/news/2016-12-variety-subsets-unmanageably-large-aid.html
 
 Ref : Open Source Software
 http://www.hull-coin.org/
