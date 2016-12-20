@@ -339,6 +339,9 @@ https://www.gov.uk/government/organisations/department-for-communities-and-local
 https://www.jrf.org.uk/reports
 http://phys.org/news/2016-12-underground-web.html
 
+Ref : Private data, data available for analysis  
+http://phys.org/news/2016-12-dna-wastewater-clues-health.html
+
 
 Ref : Data and Analysis
 
@@ -349,6 +352,7 @@ http://phys.org/news/2016-12-aviation-safety.html  Measuring an aviation system'
 http://phys.org/news/2016-09-years-safer-aviation.html#nRlv
 OSINT
 https://techxplore.com/news/2016-12-variety-subsets-unmanageably-large-aid.html
+http://phys.org/news/2016-12-scientific-facts-false.html
 
 Ref : Open Source Software
 http://www.hull-coin.org/
