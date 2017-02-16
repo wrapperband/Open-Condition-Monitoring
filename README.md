@@ -317,42 +317,49 @@ Adjusting the code of an open source program (guvview) to record the automatic b
 Using data fusion or other method to identify calibration and accuracy of fuzzy sensors e.g. Guvview / USB camera measuring cloud cover.
 Review the use of available "accurate sensors" to provide data on the consequence of issues and decisions, such accelerators / microphones in phones. Use of old phones and simple apps to collect citizen data.
 Approved list of people who could do or assist with, say, chemical testing, and starting  some levels of volunteers data collectors (weather stations operators, or analysis of number of MPs letters or planning applications etc)
+  
+  
+#### Referances :  
 
-Ref : Issues
+Ref : Issues  
+  
+http://phys.org/news/2016-11-economist-reveals-poverty-income.html  
+http://phys.org/news/2016-11-method-early-emerging-problems-industrial.html  
+http://phys.org/news/2016-11-pollution.html  
+http://phys.org/news/2016-11-misinformation-social-mediacan-technology.html  
+http://phys.org/news/2016-12-video.html  Re : Use for e.g. Monitoring TV channels for issues : News for repetition / advert content / new content /  
+http://phys.org/news/2016-12-gmo-financial-conflicts.html  
+  
+http://labourlist.org/wp-content/uploads/2013/04/Rule-Book-2013.pdf  
+  
+Ref : Tools  
+https://github.com/silverark/arkpm   
 
-http://phys.org/news/2016-11-economist-reveals-poverty-income.html
-http://phys.org/news/2016-11-method-early-emerging-problems-industrial.html
-http://phys.org/news/2016-11-pollution.html
-http://phys.org/news/2016-11-misinformation-social-mediacan-technology.html
-http://phys.org/news/2016-12-video.html  Re : Use for e.g. Monitoring TV channels for issues : News for repetition / advert content / new content /
-http://phys.org/news/2016-12-gmo-financial-conflicts.html
-
-http://labourlist.org/wp-content/uploads/2013/04/Rule-Book-2013.pdf
-
-Ref : Tools
-https://github.com/silverark/arkpm
-
-Ref : Examples of OSINT source and available parameters
-
-http://www.gaugemap.co.uk/
-https://www.gov.uk/government/organisations/department-for-communities-and-local-government/about/statistics
-https://www.jrf.org.uk/reports
-http://phys.org/news/2016-12-underground-web.html
-
+Ref : Examples of OSINT source and available parameters  
+  
+http://www.gaugemap.co.uk/  
+https://www.gov.uk/government/organisations/department-for-communities-and-local-government/about/statistics  
+https://www.jrf.org.uk/reports  
+http://phys.org/news/2016-12-underground-web.html  
+  
 Ref : Private data, data available for analysis  
-http://phys.org/news/2016-12-dna-wastewater-clues-health.html
+http://phys.org/news/2016-12-dna-wastewater-clues-health.html  
+http://medicalxpress.com/news/2017-01-major-roads-linked-small-dementia.html  
+https://phys.org/news/2017-02-china-tightens-smog-anger.html  
+  
+Ref : Data and Analysis  
+OSINT  
+The Open Source Everything Manifesto by Robert David Steele  ISBN 978-1-58394-443-1   
+https://www.ted.com/talks/noreena_hertz_how_to_use_experts_and_when_not_to  
+http://phys.org/news/2016-12-aviation-safety.html  Measuring an aviation system's safety performance  
+http://phys.org/news/2016-09-years-safer-aviation.html#nRlv  
 
+https://techxplore.com/news/2016-12-variety-subsets-unmanageably-large-aid.html  
+http://phys.org/news/2016-12-scientific-facts-false.html  
 
-Ref : Data and Analysis
-
-The Open Source Everything Manifesto by Robert David Steele  ISBN 978-1-58394-443-1
-
-https://www.ted.com/talks/noreena_hertz_how_to_use_experts_and_when_not_to
-http://phys.org/news/2016-12-aviation-safety.html  Measuring an aviation system's safety performance
-http://phys.org/news/2016-09-years-safer-aviation.html#nRlv
-OSINT
-https://techxplore.com/news/2016-12-variety-subsets-unmanageably-large-aid.html
-http://phys.org/news/2016-12-scientific-facts-false.html
-
-Ref : Open Source Software
-http://www.hull-coin.org/
+Ref : Open Source Software  
+http://www.hull-coin.org/  
+https://techxplore.com/news/2016-10-blockchain-type-tech-defense-role.html#nRlv  
+  
+ref : Open Systems  
+https://github.com/petertodd/open_government/blob/master/open_government.pdf   
