@@ -357,6 +357,9 @@ http://phys.org/news/2016-09-years-safer-aviation.html#nRlv
 https://techxplore.com/news/2016-12-variety-subsets-unmanageably-large-aid.html  
 http://phys.org/news/2016-12-scientific-facts-false.html  
 
+Measuring Con Trails - Contrail study with ground-based cameras
+http://elib.dlr.de/86509/1/Schumann-etal-amt-6-3597-2013.pdf
+
 Ref : Open Source Software  
 http://www.hull-coin.org/  
 https://techxplore.com/news/2016-10-blockchain-type-tech-defense-role.html#nRlv  
