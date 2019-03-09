@@ -7,7 +7,7 @@ OCM (Open Condition Monitoring) is a required part of a systematic method of def
 
 Initially OCM is open sourcing the Maintenance Techniques and Analysis overview :
 
-[Open Condition Monitoring, MTA](MaintenanceTechniquesAnalysis/MaintenanceTechniquesAnalysis.html "Maintenance Review Techniques Over View")
+[Open Condition Monitoring, Manitenance Techniques and Analysis web page](https://wrapperband.github.io/Open-Condition-Monitoring/MaintenanceTechniquesAnalysis/index.html "Maintenance Review Techniques Over View")
 
 
 It is envisaged that OCM will enable secure storage by common means to provide infrastructure to provide facility  for investigation and institution of anonymous analysis of data. The wider statistical significance of access to larger data sets would engender more useful and flexible reporting systems.  
