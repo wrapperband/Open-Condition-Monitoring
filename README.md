@@ -336,7 +336,6 @@ Ref : Tools
 https://github.com/silverark/arkpm   
 
 Ref : Examples of OSINT source and available parameters  
-  
 http://www.gaugemap.co.uk/  
 https://www.gov.uk/government/organisations/department-for-communities-and-local-government/about/statistics  
 https://www.jrf.org.uk/reports  
@@ -364,5 +363,7 @@ Ref : Open Source Software
 http://www.hull-coin.org/  
 https://techxplore.com/news/2016-10-blockchain-type-tech-defense-role.html#nRlv  
   
-ref : Open Systems  
+Ref : Open Systems  
 https://github.com/petertodd/open_government/blob/master/open_government.pdf   
+Aim 42 supports software evolution, maintenance, migration and improvement - in a systematic and pragmatic way.  
+https://aim42.github.io/  
